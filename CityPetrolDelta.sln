@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityPetrolDelta.CSharp", "CityPetrolDelta.CSharp.csproj", "{46ABBACA-C55E-603D-5995-DC0F4BCD794E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityPetrolDelta.CSharp.Plugins", "CityPetrolDelta.CSharp.Plugins.csproj", "{182F9B3D-2F28-288D-BAE5-456F0C931819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityPetrolDelta.CSharp.Editor.Plugins", "CityPetrolDelta.CSharp.Editor.Plugins.csproj", "{30D0A10C-C483-D858-7FBB-6D68B763C890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityPetrolDelta.CSharp.Editor", "CityPetrolDelta.CSharp.Editor.csproj", "{CED9FE8B-2E13-9437-F29E-5287DB1D827B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46ABBACA-C55E-603D-5995-DC0F4BCD794E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46ABBACA-C55E-603D-5995-DC0F4BCD794E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46ABBACA-C55E-603D-5995-DC0F4BCD794E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46ABBACA-C55E-603D-5995-DC0F4BCD794E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182F9B3D-2F28-288D-BAE5-456F0C931819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182F9B3D-2F28-288D-BAE5-456F0C931819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182F9B3D-2F28-288D-BAE5-456F0C931819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182F9B3D-2F28-288D-BAE5-456F0C931819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30D0A10C-C483-D858-7FBB-6D68B763C890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D0A10C-C483-D858-7FBB-6D68B763C890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D0A10C-C483-D858-7FBB-6D68B763C890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D0A10C-C483-D858-7FBB-6D68B763C890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CED9FE8B-2E13-9437-F29E-5287DB1D827B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED9FE8B-2E13-9437-F29E-5287DB1D827B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED9FE8B-2E13-9437-F29E-5287DB1D827B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED9FE8B-2E13-9437-F29E-5287DB1D827B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
